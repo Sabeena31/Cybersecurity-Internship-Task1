@@ -1,0 +1,7 @@
+pwd - Show current directory
+ls - List files and folders
+cd - Change directory
+mkdir - Create folder
+touch - Create file
+chmod - Change permissions
+chown - Change ownership
