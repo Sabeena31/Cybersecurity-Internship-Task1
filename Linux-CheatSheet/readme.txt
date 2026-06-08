@@ -1,26 +1,26 @@
-#Linux Cheat Sheet
+# Linux Cheat Sheet
 
-##Navigation
+## Navigation
 pwd
 ls
 cd
 
-##File Management
+## File Management
 mkdir
 touch
 cp
 mv
 rm
 
-##Permissions
+## Permissions
 chmod
 chown
 
-##Networking
+## Networking
 ip addr
 ping
 ss -tuln
 
-##Package Management
+## Package Management
 sudo apt update
 sudo apt upgrade
